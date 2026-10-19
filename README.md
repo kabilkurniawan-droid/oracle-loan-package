@@ -36,3 +36,9 @@ Oracle Database, PL/SQL, Oracle APEX SQL Workshop
 
 ## Data
 All data is fictional sample data.
+
+## Screenshots
+
+![Test results](01_test_results.png)
+
+![Sample repayment schedule](02_loan_schedule.png)
