@@ -39,6 +39,6 @@ All data is fictional sample data.
 
 ## Screenshots
 
-![Test results](01_test_results.png)
+![Test results](screenshots/01_test_results.png)
 
-![Sample repayment schedule](02_loan_schedule.png)
+![Sample repayment schedule](screenshots/02_loan_schedule.png)
